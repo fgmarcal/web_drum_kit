@@ -1,1 +1,1 @@
-## Experimental websit to practice javascript, css and HTML
+## Experimental website to practice javascript, css and HTML
